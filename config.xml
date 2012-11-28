@@ -31,6 +31,8 @@
         <rim:permit>use_camera</rim:permit>
     </rim:permissions>
 
+    <feature id="blackberry.invoke" />
+
     <content src="index.html" rim:allowInvokeParams="true"/>
 
     <access uri="*" subdomains="true"/>
